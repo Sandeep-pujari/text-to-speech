@@ -20,4 +20,4 @@
 4. Click the "Speak" button to hear the text
 
 ## Author
-Sandeep Puari
+Sandeep Pujari
